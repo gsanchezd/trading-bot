@@ -1,0 +1,19 @@
+# Archivos de entorno con secretos
+.env
+.env.local
+.env.*.local
+
+# Archivos temporales de Supabase
+supabase/.temp/
+
+# Archivos con credenciales
+**/credentials.json
+**/secrets.json
+*.pem
+*.key
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
