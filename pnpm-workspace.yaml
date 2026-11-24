@@ -1,0 +1,3 @@
+allowBuilds:
+  # Downloads the Supabase CLI binary (bin/supabase) from GitHub releases.
+  supabase: true
