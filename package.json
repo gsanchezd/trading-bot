@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "supabase": "^2.72.8"
-  }
+    "supabase": "^2.122.1"
+  },
+  "packageManager": "pnpm@11.20.0"
 }
